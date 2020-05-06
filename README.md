@@ -6,9 +6,9 @@ List generator of all events in specific locations for current day. Easily print
 
 List indicates automatically which evens are completed, currently taking place, or scheduled.
 
-![Screenshot 1](https://mardosz.com/git/print25live/ss001.png)
+![Screenshot 1](ss001.png)
 
-![Screenshot 1](https://mardosz.com/git/print25live/ss002.png)
+![Screenshot 1](ss002.png)
 
 What needs to be changed before implementation in your environment:
 
@@ -21,4 +21,4 @@ What needs to be changed before implementation in your environment:
 
 If hit "Print this page", a printout will look as a screenshot below.
 
-![Screenshot of a printout](https://mardosz.com/git/print25live/ss003.png)
+![Screenshot of a printout](ss003.png)
